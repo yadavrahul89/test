@@ -6,5 +6,7 @@ public class Sum {
 		System.out.println("Hi, I am student.");
 		System.out.println("Hi, I am student1.");
 		
+		System.out.println("Hi, hello");
+		
 	}
 }
